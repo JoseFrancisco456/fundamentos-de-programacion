@@ -1,6 +1,4 @@
 # Fundamentos de programacion
-Nombre: Jose Francisco Gonzalez Rosales
-Matricula: al05052257
 Este archivo va a contener la descripcion de la estructura de la materia de fundamentos de programacion
 
 los archivos hasta el momento son:
@@ -9,15 +7,8 @@ los archivos hasta el momento son:
 
 se encuentran en la carpeta Actividad_semana1
 
-Los archivos de la semana 2 son
+Los archivos de la semana 2 son:
 1. CobroEntradasMuseo
 2. extras_semana2
 
 se encuentran en la carpeta Semana_2
-
-Los archivos de la semana 3 son
-
-1. prototipo_inicial.py
-2. Avance del Proyecto.pdf
-
-se encuentran en la carpeta Semana_3
