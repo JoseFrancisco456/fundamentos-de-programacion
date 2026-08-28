@@ -14,3 +14,10 @@ Los archivos de la semana 2 son
 2. extras_semana2
 
 se encuentran en la carpeta Semana_2
+
+Los archivos de la semana 3 son
+
+1. prototipo_inicial.py
+2. Avance del Proyecto.pdf
+
+se encuentran en la carpeta Semana_3
