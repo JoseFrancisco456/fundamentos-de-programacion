@@ -1,4 +1,6 @@
 # Fundamentos de programacion
+Nombre: Jose Francisco Gonzalez Rosales
+Matricula: al05052257
 Este archivo va a contener la descripcion de la estructura de la materia de fundamentos de programacion
 
 los archivos hasta el momento son:
