@@ -1,0 +1,7 @@
+=== AVISO DEL GIMNASIO ===
+Problema: El gym esta cerrado
+Estado: Pendiente
+Tiempo aproximado: 180 minutos
+Fecha: 25/9/2026
+---------------------------
+
